@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ekremteke
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Java and GitHub
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
