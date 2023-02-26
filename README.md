@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ekremteke
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a Software Developer
+- 🌱 My tech skills are JavaScript, React.js, Node.js, PostgreSQL, HTML, CSS, Java
 - 💞️ I’m a trainee in the Code Your Future
 - 📫 ekremteke.uk@gmail.com
 
